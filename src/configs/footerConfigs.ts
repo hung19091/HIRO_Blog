@@ -1,11 +1,9 @@
 export const footerConfigs = {
-  credit: 'Stark Industries',
+  credit: 'Otuska Hiro Project',
   socialLinks: {
-    email: 'stark@example.com',
+    email: 'hung19091@gmail.com',
     github:
-      'https://github.com/Kamigami55/nextjs-tailwind-contentlayer-blog-starter',
-    twitter: 'https://twitter.com/EasonChang_me',
-    facebook: 'https://www.facebook.com/eason.blog',
-    linkedin: 'https://www.linkedin.com/in/easonchang101',
+      'https://github.com/hung19091/HIRO_Blog',    
+    facebook: 'https://www.facebook.com/hung19091/',    
   },
 };
